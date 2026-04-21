@@ -1,11 +1,11 @@
 const message = `I don’t even know if you’ll ever read this.
-But if you do… I just want to say goodluck on your exams.
+But if you do… I just want to say goodluck on your life.
 
-Jangan tido lambat okay? Jangan main ml banyak sangat tauu. Try to focus on ur studyyy and try ur best to get straight A's !!.
+Hehe honestly letting u go is one of the hardest thing that i've ever had to do. Eventho ik that there will never be "us" anymore but just gonna let u know that im always here.
 
 I really hope you succeed in life and get everything that you've ever wished for and maybe one day u get the person u've always dreamed of too? Hahah.
 
-Anyways, I hope you're doing okay, and I believe that u can do it!! Baca bismillah and don't forget to solat & doa.`;
+Anyways, please take a good care of urself and if u don't like me anym just say it, don't text me and pretend like u still love me`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
